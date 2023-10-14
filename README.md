@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @min2oe
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...html
-- 💞️ I’m looking to collaborate on ...anyone with a same passion
+- 💞️ I’m looking to collaborate on ...any helpful project 
 - 📫 How to reach me ...
 
 <!---
